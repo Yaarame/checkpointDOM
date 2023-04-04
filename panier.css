@@ -1,0 +1,62 @@
+.produit
+{
+    height: 70px;
+    
+}
+td
+    {
+        
+        width: 250px;
+        
+    }
+tr
+    {
+        text-align: center;
+        height: 50px;
+    }
+.bi-heart{
+    width: 100px;
+    height: 50px;
+    color: pink;
+    background-color: white;
+}
+.couleur
+    {
+        color: red;
+    }
+.btn_coeur
+    {
+        display: block;
+        margin-top: 100px;
+        
+    }
+.coeur
+    {   border-style: none;
+        padding: 0px;
+        margin: 0px;
+
+    }
+    .bi-heart:active
+        {
+            color: red;
+        }
+    span{
+
+        display: block;
+    
+        font-size: 2,5em;
+        font-weight: bold;
+    }
+    .appuie
+        {
+            display: inline-block;
+        }
+    .bloc
+        {   margin-top: 50px;
+            margin-left: 390px;
+        }
+    .pr_total
+        {
+            display: inline-block;
+            text-align: center;
+        }
